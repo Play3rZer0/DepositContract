@@ -1,6 +1,6 @@
 //SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.13;
+pragma solidity ^0.8.26;
 
 //The ownable contract establishes the owner is the only one who can run
 //a certain function by using a modifier.
